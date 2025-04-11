@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "张海鹏 / 个人空间"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "张海鹏"
+description              : &description "个人空间"
 url                      : https://harry-first.github.io/haipengzhang/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Haipeng Zhang"
-  pronouns         : "he"  
-  bio              : # "PhD student"
+  name             : "张海鹏"
+  pronouns         : # "he"  
+  bio              : "硕士研究生"
   location         : # "Xiamen, Fujian, China"
   employer         : # "Xiamen University"
   uri              : # URL
