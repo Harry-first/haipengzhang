@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Haipeng Zhang"
   pronouns         : "he"  
-  bio              : "PhD student"
-  location         : "Xiamen, Fujian, China"
-  employer         : "Xiamen University"
+  bio              : # "PhD student"
+  location         : # "Xiamen, Fujian, China"
+  employer         : # "Xiamen University"
   uri              : # URL
   email            : "assistant178@163.com" 
 
