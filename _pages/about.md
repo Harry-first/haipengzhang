@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Haipeng Zhang (张海鹏)"
+title: "欢迎来到我的个人空间"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+男， 硕士研究生，2018年度山东省高等学校优秀学生，2021年山东省优秀毕业生，2022年校优秀研究生。2021年获齐鲁工业大学（山东省科学院）计算机科学与技术学士学位，2024年毕业于广西科技大学，获计算机科学与技术硕士学位。2024年7月至2025年1月在中电科新型智慧城市研究院有限公司担任算法工程师，主要研究方向为多智能体强化学习与无人系统自主决策。在国际会议AAMAS（CCF B类）、期刊IEEE Transactions on Intelligent Transportation Systems（CCF B类，JCR Q1，IF=7.9）、《计算机工程与应用》等上发表多篇论文，申请两项发明专利，已获授权三项软件著作权。主持广西财经大数据重点实验室开放基金项目，并参与国家自然科学基金等多项课题。获得第一届山东省高校大学生人工智能大赛团体二等奖和最佳应用奖、第十七届山东省大学生软件设计大赛三等奖和2021年RoboCup机器人世界杯中国赛仿真3D组三等奖等，持有中级软件设计师资格证书。研究方向涵盖多智能体系统的协同优化、群体智能自主决策，以及大模型与强化学习结合。
 
 A data-driven personal website
 ======
