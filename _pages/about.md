@@ -9,20 +9,20 @@ redirect_from:
 
 男， 硕士研究生，2018年度山东省高等学校优秀学生，2021年山东省优秀毕业生，2022年校优秀研究生。2021年获齐鲁工业大学（山东省科学院）计算机科学与技术学士学位，2024年毕业于广西科技大学，获计算机科学与技术硕士学位。2024年7月至2025年1月在中电科新型智慧城市研究院有限公司担任算法工程师，主要研究方向为多智能体强化学习与无人系统自主决策。在国际会议AAMAS（CCF B类）、期刊IEEE Transactions on Intelligent Transportation Systems（CCF B类，JCR Q1，IF=7.9）、《计算机工程与应用》等上发表多篇论文，申请两项发明专利，已获授权三项软件著作权。主持广西财经大数据重点实验室开放基金项目，并参与国家自然科学基金等多项课题。获得第一届山东省高校大学生人工智能大赛团体二等奖和最佳应用奖、第十七届山东省大学生软件设计大赛三等奖和2021年RoboCup机器人世界杯中国赛仿真3D组三等奖等，持有中级软件设计师资格证书。研究方向涵盖多智能体系统的协同优化、群体智能自主决策，以及大模型与强化学习结合。
 
-A data-driven personal website
+主要研究方向
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. 多智能体强化学习
+2. 大模型智能体
+3. 具身智能
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+论文列表
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. **Zhang Haipeng**, Wang Zhiwen, Li Na. MATLight: Traffic Signal Coordinated Control Algorithm based on Heterogeneous-Agent Mirror Learning with Transformer. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024. (CCF-B, AAMAS会议)
+2. **Zhang Haipeng**, Wang Zhiwen, Yu Jilin, etc. Learning Simultaneous and Sequential Decisions in Multi-Agent Systems with Application to Traffic Signal Control. IEEE Transactions on Intelligent Transportation Systems. 2024. (CCF-B, IF=7.9, JCR Q1)
+3. Wanyuan Wang, **Haipeng Zhang**, Tianchi Qiao, etc. Real-Time Network-Level Traffic Signal Control An Explicit Multiagent Coordination Method. IEEE Transactions on Intelligent Transportation Systems. 2024. (CCF-B, IF=7.9, JCR Q1)
+4. Liu Guoqing, Wang Zhiwen, **Zhang Haipeng**, Guo Xin, Wang Yuhang, Zhang Canlong. A novel violent video detection method based on improved C3D and transfer learning. CIBDA 2022; 3rd International Conference on Computer Information and Big Data Applications. VDE, 2022.
+5. 王智文，卢玉梅，**张海鹏**，庞钰丽. 多智能体序列决策的多交叉口交通信号控制方法. 计算机工程与应用, 2024. (中文核心, CCF-C)
+6. 吴颢，**张海鹏***，谭铭威，林旭彬，黄家润. 基于新型智慧城市治理及服务的低空巡管运营模式初探. 智能城市, 2024.
 
 Site-wide configuration
 ------
