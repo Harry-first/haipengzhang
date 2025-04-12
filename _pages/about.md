@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-男， 硕士研究生，2018年度山东省高等学校优秀学生，2021年山东省优秀毕业生，2022年校优秀研究生。2021年获齐鲁工业大学（山东省科学院）计算机科学与技术学士学位，2024年毕业于广西科技大学，获计算机科学与技术硕士学位。2024年7月至2025年1月在中电科新型智慧城市研究院有限公司担任算法工程师，主要研究方向为多智能体强化学习与无人系统自主决策。在国际会议AAMAS（CCF B类）、期刊IEEE Transactions on Intelligent Transportation Systems（CCF B类，JCR Q1，IF=7.9）、《计算机工程与应用》等上发表多篇论文，申请两项发明专利，已获授权三项软件著作权。主持广西财经大数据重点实验室开放基金项目，并参与国家自然科学基金等多项课题。获得第一届山东省高校大学生人工智能大赛团体二等奖和最佳应用奖、第十七届山东省大学生软件设计大赛三等奖和2021年RoboCup机器人世界杯中国赛仿真3D组三等奖等，持有中级软件设计师资格证书。研究方向涵盖多智能体系统的协同优化、群体智能自主决策，以及大模型与强化学习结合。
+男， 硕士研究生，2018年度山东省高等学校优秀学生，2021年山东省优秀毕业生，2022年校优秀研究生。2021年获齐鲁工业大学（山东省科学院）计算机科学与技术学士学位，2024年毕业于广西科技大学，获计算机科学与技术硕士学位。2024年7月至2025年1月在中电科新型智慧城市研究院有限公司担任算法工程师。在国际会议AAMAS（CCF B类）、期刊IEEE Transactions on Intelligent Transportation Systems、《计算机工程与应用》等上发表多篇论文，申请两项发明专利，已获授权三项软件著作权。主持广西财经大数据重点实验室开放基金项目，并参与国家自然科学基金等多项课题。获得第一届山东省高校大学生人工智能大赛团体二等奖和最佳应用奖、第十七届山东省大学生软件设计大赛三等奖和2021年RoboCup机器人世界杯中国赛仿真3D组三等奖等，持有中级软件设计师资格证书。研究方向涵盖多智能体系统的协同优化、群体智能自主决策，以及大模型与强化学习结合。
 
 主要研究方向
 ======
@@ -17,8 +17,8 @@ redirect_from:
 
 论文列表
 ======
-1. **Zhang Haipeng**, Wang Zhiwen, Li Na. MATLight: Traffic Signal Coordinated Control Algorithm based on Heterogeneous-Agent Mirror Learning with Transformer. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024. (CCF-B, AAMAS会议)
-2. **Zhang Haipeng**, Wang Zhiwen, Yu Jilin, etc. Learning Simultaneous and Sequential Decisions in Multi-Agent Systems with Application to Traffic Signal Control. IEEE Transactions on Intelligent Transportation Systems. 2024. (CCF-B, IF=7.9, JCR Q1)
+1. **Zhang Haipeng**, Wang Zhiwen*, Li Na. MATLight: Traffic Signal Coordinated Control Algorithm based on Heterogeneous-Agent Mirror Learning with Transformer. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024. (CCF-B, AAMAS会议)
+2. **Zhang Haipeng**, Wang Zhiwen*, Yu Jilin, etc. Learning Simultaneous and Sequential Decisions in Multi-Agent Systems with Application to Traffic Signal Control. IEEE Transactions on Intelligent Transportation Systems. 2024. **in press** (CCF-B, IF=7.9, JCR Q1)
 3. Wanyuan Wang, **Haipeng Zhang**, Tianchi Qiao, etc. Real-Time Network-Level Traffic Signal Control An Explicit Multiagent Coordination Method. IEEE Transactions on Intelligent Transportation Systems. 2024. (CCF-B, IF=7.9, JCR Q1)
 4. Liu Guoqing, Wang Zhiwen, **Zhang Haipeng**, Guo Xin, Wang Yuhang, Zhang Canlong. A novel violent video detection method based on improved C3D and transfer learning. CIBDA 2022; 3rd International Conference on Computer Information and Big Data Applications. VDE, 2022.
 5. 王智文，卢玉梅，**张海鹏**，庞钰丽. 多智能体序列决策的多交叉口交通信号控制方法. 计算机工程与应用, 2024. (中文核心, CCF-C)
