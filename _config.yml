@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "张海鹏 / 个人空间"
+title                    : "张海鹏 / 学术殿堂"
 title_separator          : "-"
 name                     : &name "张海鹏"
-description              : &description "个人空间"
-url                      : https://harry-first.github.io/haipengzhang/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "学术殿堂"
+url                      : https://harry-first.github.io/haipengzhang # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
