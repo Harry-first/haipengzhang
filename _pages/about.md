@@ -16,14 +16,14 @@ redirect_from:
 3. 具身智能
 
 **背景**
-------
+======
 1. 2024.07~2025.01: 中电科新型智慧城市研究院有限公司, 算法工程师
 2. 2023.10~2024.06: 东南大学, 访问实习
 3. 2021.09~2024.06: 广西科技大学, 计算机科学与技术, 硕士研究生
 4. 2017.09~2021.06: 齐鲁工业大学(山东省科学院), 计算机科学与技术，学士
 
 **论文列表** (*表示通讯作者)
-------
+======
 1. **Zhang Haipeng**, Wang Zhiwen*, Li Na. MATLight: Traffic Signal Coordinated Control Algorithm based on Heterogeneous-Agent Mirror Learning with Transformer. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024. (**CCF-B**, AAMAS会议)
 2. **Zhang Haipeng**, Wang Zhiwen*, Yu Jilin, etc. Learning Simultaneous and Sequential Decisions in Multi-Agent Systems with Application to Traffic Signal Control. IEEE Transactions on Intelligent Transportation Systems. 2024. **in press** (**CCF-B**, IF=7.9, JCR Q1, **TOP期刊**)
 3. Wanyuan Wang, **Haipeng Zhang**, Tianchi Qiao, etc. Real-Time Network-Level Traffic Signal Control An Explicit Multiagent Coordination Method. IEEE Transactions on Intelligent Transportation Systems. 2024. (**CCF-B**, IF=7.9, JCR Q1, **TOP期刊**)
