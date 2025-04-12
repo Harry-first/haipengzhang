@@ -25,7 +25,7 @@ redirect_from:
 **论文列表** (*表示通讯作者)
 ======
 1. **Zhang Haipeng**, Wang Zhiwen*, Li Na. MATLight: Traffic Signal Coordinated Control Algorithm based on Heterogeneous-Agent Mirror Learning with Transformer. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024. (**CCF-B**, AAMAS会议)
-2. **Zhang Haipeng**, Wang Zhiwen*, Yu Jilin, etc. Learning Simultaneous and Sequential Decisions in Multi-Agent Systems with Application to Traffic Signal Control. IEEE Transactions on Intelligent Transportation Systems. 2024. **in press** (**CCF-B**, IF=7.9, JCR Q1, **TOP期刊**)
+2. **Zhang Haipeng**, Wang Zhiwen*, Yu Jilin, etc. Learning Simultaneous and Sequential Decisions in Multi-Agent Systems with Application to Traffic Signal Control. IEEE Transactions on Intelligent Transportation Systems. 2025. **in press** (**CCF-B**, IF=7.9, JCR Q1, **TOP期刊**)
 3. Wanyuan Wang, **Haipeng Zhang**, Tianchi Qiao, etc. Real-Time Network-Level Traffic Signal Control An Explicit Multiagent Coordination Method. IEEE Transactions on Intelligent Transportation Systems. 2024. (**CCF-B**, IF=7.9, JCR Q1, **TOP期刊**)
 4. Liu Guoqing, Wang Zhiwen, **Zhang Haipeng**, Guo Xin, Wang Yuhang, Zhang Canlong. A novel violent video detection method based on improved C3D and transfer learning. CIBDA 2022; 3rd International Conference on Computer Information and Big Data Applications. VDE, 2022.
 5. 王智文，卢玉梅，**张海鹏**，庞钰丽. 多智能体序列决策的多交叉口交通信号控制方法. 计算机工程与应用, 2024. (中文核心, **CCF-C**)
