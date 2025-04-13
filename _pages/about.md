@@ -17,17 +17,13 @@ redirect_from:
 
 **背景经历**
 ======
-1. 2024.07~2025.01: 中电科新型智慧城市研究院有限公司, 全职, 算法工程师
-2. 2023.10~2024.06: 东南大学, 计算机学院, 访问, 导师是王万元副教授
-3. 2022.03~2023.08: 广西科达智创计算机科技有限公司, 兼职, 算法工程师
-4. 2021.09~2024.06: 广西科技大学, 计算机科学与技术, 硕士研究生, 导师是王智文教授
-5. 2021.01~2021.05: 山东师创软件实训学院, 实习, Java工程师
-6. 2017.09~2021.06: 齐鲁工业大学(山东省科学院), 计算机科学与技术，学士, 导师是王薇副教授
+1. 2017.09~2021.06: 齐鲁工业大学(山东省科学院), 计算机科学与技术，学士, 导师是王薇副教授
+2. 2021.09~2024.06: 广西科技大学, 计算机科学与技术, 硕士, 导师是王智文教授
 
 **论文列表** (*表示通讯作者)
 ======
-1. **Zhang Haipeng**, Wang Zhiwen*, Li Na. MATLight: Traffic Signal Coordinated Control Algorithm based on Heterogeneous-Agent Mirror Learning with Transformer. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024. (**CCF-B**, AAMAS会议)
-2. **Zhang Haipeng**, Wang Zhiwen*, Yu Jilin, etc. Learning Simultaneous and Sequential Decisions in Multi-Agent Systems with Application to Traffic Signal Control. IEEE Transactions on Intelligent Transportation Systems. 2025. **in press** (**CCF-B**, IF=7.9, JCR Q1, **TOP期刊**)
+1. **Zhang Haipeng**, Wang Zhiwen*, Yu Jilin, etc. Learning Simultaneous and Sequential Decisions in Multi-Agent Systems with Application to Traffic Signal Control. IEEE Transactions on Intelligent Transportation Systems. 2025. **in press** (**CCF-B**, IF=7.9, JCR Q1, **TOP期刊**)
+2. **Zhang Haipeng**, Wang Zhiwen*, Li Na. MATLight: Traffic Signal Coordinated Control Algorithm based on Heterogeneous-Agent Mirror Learning with Transformer. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024. (**CCF-B**, AAMAS会议)
 3. Wang Wanyuan, **Zhang Haipeng**, Qiao Tianchi, etc. Real-Time Network-Level Traffic Signal Control An Explicit Multiagent Coordination Method. IEEE Transactions on Intelligent Transportation Systems. 2024. (**CCF-B**, IF=7.9, JCR Q1, **TOP期刊**)
 4. Liu Guoqing, Wang Zhiwen, **Zhang Haipeng**, Guo Xin, Wang Yuhang, Zhang Canlong. A novel violent video detection method based on improved C3D and transfer learning. CIBDA 2022; 3rd International Conference on Computer Information and Big Data Applications. VDE, 2022.
 5. 王智文，卢玉梅，**张海鹏**，庞钰丽. 多智能体序列决策的多交叉口交通信号控制方法. 计算机工程与应用, 2024. (中文核心, **CCF-C**)
@@ -39,3 +35,18 @@ redirect_from:
 2. **基于多视角协同深度学习及动态部位建模的密集区域行人检测研究** (国基重点项目), 参与, 2021.09~2023.12, 已结项
 3. **基于协同深度学习的密集区域行人检测研究** (省基重点项目), 参与, 2021.09~2023.12, 已结项
 4. **交通事件检测平台项目** (深圳市公安局交警支队), **主要研发人员**, 2024.07~2025.01
+
+**工作经验**
+======
+1. 2021.01~2021.05: 山东师创软件实训学院, **实习**, Java工程师
+2. 2022.03~2023.08: 广西科达智创计算机科技有限公司, **兼职**, 算法工程师
+3. 2023.10~2024.06: 东南大学, 计算机学院, **访问**, 导师是王万元副教授
+4. 2024.07~2025.01: 中电科新型智慧城市研究院有限公司, **全职**, 算法工程师
+
+**大赛奖项**
+1. 第一届山东省高校大学生人工智能大赛团体二等奖、最佳应用奖
+2. 第十七届山东省大学生软件设计大赛三等奖
+3. 2019年全国机器人足球世界杯robocup 3D仿真组优胜奖
+4. 2021年全国机器人足球世界杯robocup 3D仿真组三等奖
+5. "兆易创新杯"第十七届中国研究生电子设计竞赛商业计划书专项赛初赛三等奖
+6. 第十一届“泰迪杯”数据挖掘挑战赛省级三等奖
