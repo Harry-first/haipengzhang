@@ -17,8 +17,8 @@ redirect_from:
 
 **Educations**
 ======
-1. 2017.09~2021.06: Qilu University of Technology(Shandong Academy of Sciences), Computer Science and Technology，Bachelor, 导师是王薇副教授
-2. 2021.09~2024.06: Guangxi University of Science and Technology, Computer Science and Technology, Master, 导师是王智文教授
+1. 2017.09~2021.06: Qilu University of Technology(Shandong Academy of Sciences), Computer Science and Technology, Bachelor; Mentor: Associate Professor Wei Wang
+2. 2021.09~2024.06: Guangxi University of Science and Technology, Computer Science and Technology, Master; Mentor: Professor Zhiwen Wang
 
 **Publications** (*表示通讯作者)
 ======
