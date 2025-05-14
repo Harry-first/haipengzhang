@@ -18,7 +18,7 @@ redirect_from:
 **Educations**
 ======
 1. 2017.09~2021.06: **Qilu University of Technology(Shandong Academy of Sciences)**, Computer Science and Technology, **Bachelor**; _Mentor: Associate Professor Wei Wang_
-2. 2021.09~2024.06: **Guangxi University of Science and Technology**, Computer Science and Technology, **Master**; Mentor: Professor Zhiwen Wang
+2. 2021.09~2024.06: **Guangxi University of Science and Technology**, Computer Science and Technology, **Master**; _Mentor: Professor Zhiwen Wang_
 
 **Publications** (*表示通讯作者)
 ======
@@ -34,14 +34,14 @@ redirect_from:
 1. **基于交通流大数据和多智能体深度强化学习的交通信号控制研究** (开放基金重点项目), **项目负责人**, 2022.11~2024.10, 已结项
 2. **基于多视角协同深度学习及动态部位建模的密集区域行人检测研究** (国基重点项目), 参与, 2021.09~2023.12, 已结项
 3. **基于协同深度学习的密集区域行人检测研究** (省基重点项目), 参与, 2021.09~2023.12, 已结项
-4. **交通事件检测平台项目** (深圳市公安局交警支队), **主要研发人员**, 2024.07~2025.01
+4. **交通事件检测平台项目** (深圳市重点项目产品), **主要研发人员**, 2024.07~2025.01
 
 **Work Experiences**
 ======
-1. 2021.01~2021.05: 山东师创软件实训学院, **实习**, Java工程师
-2. 2022.03~2023.08: 广西科达智创计算机科技有限公司, **兼职**, 算法工程师
-3. 2023.10~2024.06: 东南大学, 计算机学院, **访问**, 导师是王万元副教授
-4. 2024.07~2025.01: 中电科新型智慧城市研究院有限公司, **全职**, 算法工程师
+1. 2021.01~2021.05: Shandong Shichuang Software Training College, **internship**, _Java-Developer_
+2. 2022.03~2023.08: Keda Zhichuang Computer Technology Co., Ltd, **part-time**, _AI Engineer_
+3. 2023.10~2024.06: Southeast University, **visiting**, _Mentor: Associate Professor Wanyuan Wang_
+4. 2024.07~2025.01: The Smart City Research Institute Of China Electronics Technology Group Corporation, **full-time**, _AI Engineer_
 
 **Rewards**
 ======
