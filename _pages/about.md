@@ -17,8 +17,8 @@ redirect_from:
 
 **Educations**
 ======
-1. 2017.09~2021.06: 齐鲁工业大学(山东省科学院), 计算机科学与技术，学士, 导师是王薇副教授
-2. 2021.09~2024.06: 广西科技大学, 计算机科学与技术, 硕士, 导师是王智文教授
+1. 2017.09~2021.06: Qilu University of Technology(Shandong Academy of Sciences), Computer Science and Technology，Bachelor, 导师是王薇副教授
+2. 2021.09~2024.06: Guangxi University of Science and Technology, Computer Science and Technology, Master, 导师是王智文教授
 
 **Publications** (*表示通讯作者)
 ======
