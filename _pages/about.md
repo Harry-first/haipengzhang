@@ -38,8 +38,8 @@ redirect_from:
 
 **Work Experiences**
 ======
-1. 2021.01~2021.05: Shandong Shichuang Software Training College, **internship**, _Java-Developer_
-2. 2022.03~2023.08: Keda Zhichuang Computer Technology Co., Ltd, **part-time**, _AI Engineer_
+1. 2021.01~2021.05: 山东师创软件实训学院, **internship**, _Java-Developer_
+2. 2022.03~2023.08: 广西科达智创计算机科技有限公司, **part-time**, _AI Engineer_
 3. 2023.10~2024.06: Southeast University, **visiting**, _Mentor: Associate Professor Wanyuan Wang_
 4. 2024.07~2025.01: The Smart City Research Institute Of China Electronics Technology Group Corporation, **full-time**, _AI Engineer_
 
