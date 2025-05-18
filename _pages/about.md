@@ -10,6 +10,7 @@ redirect_from:
 **这是一个半中半英，正经又不正经的个人主页。**
 ------
 2021年本科毕业于齐鲁工业大学（山东省科学院），2024年硕士毕业于广西科技大学。2024年7月至2025年1月在中电科新型智慧城市研究院有限公司担任算法工程师。在国际会议AAMAS、期刊IEEE Transactions on Intelligent Transportation Systems、《计算机工程与应用》等上发表多篇论文，申请两项发明专利，已获授权三项软件著作权，持有中级软件设计师职业资格证书。研究方向涵盖多智能体系统智能决策、大模型与强化学习结合、具身智能等。
+I graduated from Qilu University of Technology (Shandong Academy of Sciences) in 2021, and graduated from Guangxi University of Science and Technology in 2024. I worked as an AI Engineer at the Smart City Research Institute Of China Electronics Technology Group Corporation from July 2024 to January 2025. I published several papers in international conferences such as AAMAS, IEEE Transactions on Intelligent Transportation Systems, and Computer Engineering and Applications, applied for two invention patents, and has been granted three software copyrights. I hold an intermediate software designer professional qualification certificate. My research interests include intelligent decision-making of multi-agent systems, the combination of large models and reinforcement learning, and embodied intelligence.
 
 **Research Interests**
 ======
