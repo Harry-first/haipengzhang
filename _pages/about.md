@@ -24,13 +24,6 @@ I graduated from Qilu University of Technology (Shandong Academy of Sciences) in
 1. 2017.09~2021.06: **Qilu University of Technology(Shandong Academy of Sciences)**, Computer Science and Technology, **Bachelor**; _Mentor: Associate Professor Wei Wang_
 2. 2021.09~2024.06: **Guangxi University of Science and Technology**, Computer Science and Technology, **Master**; _Mentor: Professor Zhiwen Wang_
 
-**Academic Projects**
-======
-1. **基于交通流大数据和多智能体深度强化学习的交通信号控制研究** (开放基金重点项目), **项目负责人**, 2022.11~2024.10, 已结项
-2. **基于多视角协同深度学习及动态部位建模的密集区域行人检测研究** (国基重点项目), 参与, 2021.09~2023.12, 已结项
-3. **基于协同深度学习的密集区域行人检测研究** (省基重点项目), 参与, 2021.09~2023.12, 已结项
-4. **交通事件检测平台项目** (深圳市重点项目产品), **主要研发人员**, 2024.07~2025.01
-
 **Work Experiences**
 ======
 1. 2021.01~2021.05: 山东师创软件实训学院, **internship**, _Java-Developer_
