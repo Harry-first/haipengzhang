@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Hobbies"
+permalink: /portfolio/
+author_profile: true
+---
 
 1. 写作；擅长悬疑推理、历史散文小说等。
 - **中长篇推理小说**：《诅咒之花》《巅峰对决》《别墅内的歌声》《遭遇天谴》等
