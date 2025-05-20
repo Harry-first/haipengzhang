@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
 
 1. 第一届山东省高校大学生人工智能大赛团体二等奖、最佳应用奖
 2. 第十七届山东省大学生软件设计大赛三等奖
