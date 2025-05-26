@@ -15,7 +15,7 @@ I graduated from Qilu University of Technology (Shandong Academy of Sciences) in
 
 我坚信深入本源是理解一切的基石，So? 我常沉浸于那些经受时间洗礼、被誉为经典的著作——它们或许不总那么时髦，但其蕴含的智慧，往往出乎意料地深刻。科研的探索之旅，正是对知识理论最纯粹本质的追溯。这意味着需要我们穿过层层迷雾，才能找到真正的洞见，这些洞见的灵感，往往隐藏在经典之中。
 
-![](/images/aboutme.jpg)
+![](/images/aboutme01.jpg)
 
 Research Interests
 ======
