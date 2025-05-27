@@ -15,7 +15,7 @@ I'm an explorer charting the frontiers of multi-agent intelligent decision-makin
 
 Research Interests
 ======
-我专注于构建能够自主决策、持续学习和高效协作的多智能体系统，值得一提的是，目前看来，它们还没有产生意识(lack consciousness)，因此，无需担心在执行任务的过程中，智能体会具有主观能动性，进行抱怨(complaining)，并在内部产生存在危机(existential crises)。我的研究方向主要围绕：
+我专注于构建能够自主决策、持续学习和高效协作的多智能体系统，值得一提的是，目前它们还没有产生意识(lack consciousness)，因此，无需担心在执行任务的过程中，智能体会具有主观能动性，进行抱怨(complaining)，并在内部产生存在危机(existential crises)。我的研究方向主要围绕：
 
 1. Multi-Agent Reinforcement Learning
 2. LLM Agent
