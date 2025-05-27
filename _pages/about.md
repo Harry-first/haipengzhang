@@ -15,11 +15,13 @@ I'm an explorer charting the frontiers of multi-agent intelligent decision-makin
 
 Research Interests
 ======
-我专注于构建能够自主决策、持续学习和高效协作的多智能体系统(multi-agent systems)，值得一提的是，目前看来，它们还没有产生意识(lack consciousness)，因此，无需担心在执行任务的过程中，智能体会具有主观能动性(subjective initiative)，进行抱怨(complaining)，并在内部产生存在危机(existential crises)。我的研究方向主要围绕：
-1. Multi-Agent Reinforcement Learning: 专注于研究复杂动态和不确定环境下的多智能体协作与竞争机制，以实现群体智能 (collective intelligence)的涌现及决策优化
-2. LLM Agent: 探索将大语言模型融入智能体架构，赋予其更强的规划(planning)、推理(reasoning) 和决策(decision-making)能力，以应对开放世界中的复杂任务
-3. Embodied Intelligence: 旨在使实体机器人能够在真实物理世界中自主感知(perceive)、行动(act)并通过与环境的交互进行学习(learn through interaction)，从而实现更高层次的智能
-我也常思考算法的底层逻辑(underlying logic of algorithms)与人类思维的共通之处(commonality with human thought)，并从人文社科(humanities)、哲学(philosophy)乃至历史进程(historical processes)中汲取AI演进的灵感。毕竟，真正的智慧和“套路”(true wisdom and "playbooks")往往跨越学科藩篱(transcend disciplinary boundaries)，殊途同归(leading to similar ends)。
+我专注于构建能够自主决策、持续学习和高效协作的多智能体系统，值得一提的是，目前看来，它们还没有产生意识(lack consciousness)，因此，无需担心在执行任务的过程中，智能体会具有主观能动性，进行抱怨(complaining)，并在内部产生存在危机(existential crises)。我的研究方向主要围绕：
+
+1. Multi-Agent Reinforcement Learning
+2. LLM Agent
+3. Embodied Intelligence
+
+我也常思考算法的底层逻辑与人类思维的共通之处，并从人文社科(humanities)、哲学(philosophy)乃至历史进程(historical processes)中汲取AI演进的灵感。毕竟，真正的智慧和“套路”往往跨越学科藩篱(transcend disciplinary boundaries)，殊途同归(leading to similar ends)。
 
 Educations
 ======
