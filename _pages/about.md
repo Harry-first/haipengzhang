@@ -9,11 +9,8 @@ redirect_from:
 
 **探索智能的本质与构建未来决策系统~**
 ------
-2021年本科毕业于齐鲁工业大学（山东省科学院），2024年硕士毕业于广西科技大学。2024年7月至2025年1月在中电科新型智慧城市研究院有限公司担任算法工程师。在国际会议AAMAS、期刊IEEE Transactions on Intelligent Transportation Systems、《计算机工程与应用》等上发表多篇论文，申请两项发明专利，已获授权三项软件著作权，持有中级软件设计师职业资格证书。研究方向涵盖多智能体系统智能决策、大模型与强化学习结合、具身智能等。
-
-I graduated from Qilu University of Technology (Shandong Academy of Sciences) in 2021, and graduated from Guangxi University of Science and Technology in 2024. Afterwards, I worked as an AI Engineer at the Smart City Research Institute Of China Electronics Technology Group Corporation from July 2024 to January 2025. Nowadays, I have published several papers in international conferences and jounals such as AAMAS, IEEE Transactions on Intelligent Transportation Systems, and Computer Engineering and Applications. I also have applied for two invention patents, and been granted three software copyrights. I hold an intermediate software designer professional qualification certificate. My research interests include intelligent decision-making of multi-agent systems, the combination of large language models and reinforcement learning, and embodied intelligence.
-
-我坚信深入本源是理解一切的基石，So? 我常沉浸于那些经受时间洗礼、被誉为经典的著作——它们或许不总那么时髦，但其蕴含的智慧，往往出乎意料地深刻。科研的探索之旅，正是对知识理论最纯粹本质的追溯。这意味着需要我们穿过层层迷雾，才能找到真正的洞见，这些洞见的灵感，往往隐藏在经典之中。
+我是一位致力于多智能体智能决策、大模型与强化学习结合、具身智能的探索者。我的成果包括在AAMAS、IEEE T-ITS等顶会/期刊发表论文，并申领专利与软著，持有中级软件设计师职业资格证书。曾任中电科智慧院算法工程师。我坚信深入本源是理解一切的基石，So? 这常需要我沉浸于那些年代久远的经典著作——它们或许不总那么时髦，甚至有点“老派”，但其蕴含的智慧，往往出乎意料地深刻。科研的探索之旅，不正是对知识理论最纯粹本质的追溯嘛~这意味着我们需要穿过层层迷雾，才能找到真正的洞见，而灵感，往往就不合时宜地藏在那里。
+I'm an explorer dedicated to intelligent decision-making for multi-agent systems, the fusion of large language models with reinforcement learning, and embodied intelligence. My achievements include publishing papers in top-tier conferences/journals like AAMAS and IEEE T-ITS, along with applying for patents and software copyrights. I also hold an intermediate software designer professional qualification certificate. I previously served as an AI Engineer at the Smart City Research Institute of China Electronics Technology Group Corporation. I firmly believe that delving into the essence is the cornerstone of understanding everything. So? This often leads me to immerse myself in timeless, ancient classics – they might not always be fashionable, and perhaps even a bit "old-fashioned," but their wisdom is often unexpectedly profound. The journey of scientific research, isn't it precisely the purest pursuit of the fundamental essence of knowledge and theory~ This means we need to cut through layers of fog to find true insights, and inspiration, often, is unfashionably hidden right there.
 
 Research Interests
 ======
