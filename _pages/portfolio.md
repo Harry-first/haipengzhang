@@ -14,5 +14,6 @@ Literature and art are another world of mine. They help me understand the “cha
 - **生活悬疑小说**：《梦》《无言的结局》《空港》等
 3. 绘画；擅长素描、水粉。
 - 已经封笔多年，操作靠感觉。
-4. 台球、乒乓球。
+4. 传统曲艺：相声、评书、大鼓、快板、京剧等曲种剧目。
+5. 乒乓球、台球、羽毛球。
 - 打得不好，纯粹是属于娱乐散心。
