@@ -16,8 +16,10 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div class="hero-banner">
-    </div>
+    {% if page.is_homepage %}
+      <div class="hero-banner">
+      </div>
+    {% endif %}
     
     {{ content }}
 
