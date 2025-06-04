@@ -38,3 +38,8 @@ Work Experiences
 2. 2022.03~2023.08: 广西科达智创计算机科技有限公司, **part-time**, _AI Engineer_
 3. 2023.10~2024.06: Southeast University, **visiting**, _Mentor: Associate Professor Wanyuan Wang_
 4. 2024.07~2025.01: The Smart City Research Institute Of China Electronics Technology Group Corporation, **full-time**, _AI Engineer_
+
+寄语
+------
+朝霞出云雾，晨起浮蹉跎；游风经蔽日，初雨迟来蓑
+万籁生独寂，凤凰上九霄；九转化龙决，百事功成度
