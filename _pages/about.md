@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+is_homepage: true
 ---
 
 **探索智能的本质与构建未来决策系统~**
