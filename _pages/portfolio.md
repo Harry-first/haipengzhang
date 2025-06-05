@@ -5,8 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-文学与艺术是我的另一片天地，它们帮助我理解人类智能那部分无法被数据建模的“混沌之美”。
-
+文学与艺术是我的另一片天地，它们帮助我理解人类智能那部分无法被数据建模的“混沌之美”。  
 Literature and art are another world of mine. They help me understand the “chaotic beauty” of human intelligence that cannot be modeled by data.
 1. **阅读**：“人文天下，行者无疆”，我的书单堪称“无边界”，涵盖古典名著、浩瀚历史、人物传记、前沿科普、政治军事、经典文学，以及各类小说、散文及现代通俗作品，阅读的雷达无差别扫描，并塞满了大脑的硬盘。
 2. **写作**：擅长悬疑推理、历史散文小说等，也会进行诗词创作。
