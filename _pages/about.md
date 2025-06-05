@@ -22,6 +22,7 @@ Research Interests
 1. Multi-Agent Reinforcement Learning
 2. LLM Agent
 3. Embodied Intelligence
+
 我也常思考算法的底层逻辑与人类思维的共通之处，并从人文社科(humanities)、哲学(philosophy)乃至历史进程(historical processes)中汲取AI演进的灵感。毕竟，真正的智慧和“套路”往往跨越学科藩篱(transcend disciplinary boundaries)，殊途同归(leading to similar ends)。
 
 Educations
