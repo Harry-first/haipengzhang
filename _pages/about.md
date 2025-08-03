@@ -10,7 +10,7 @@ is_homepage: true
 
 **探索智能的本质与构建未来决策系统~**
 ------
-我是空间感知与计算实验室2025级博士生，致力于探索多智能体智能决策、大模型与强化学习结合、具身智能方向，导师是沈思淇副教授。我的成果包括在AAMAS、IEEE T-ITS等顶会/期刊发表论文，并申领专利与软著，持有中级软件设计师职业资格证书。  
+我是厦门大学空间感知与计算实验室2025级博士生，致力于探索多智能体智能决策、大模型与强化学习结合、具身智能方向，导师是沈思淇副教授。我的成果包括在AAMAS、IEEE T-ITS等顶会/期刊发表论文，并申领专利与软著，持有中级软件设计师职业资格证书。  
 我坚信深入本源是理解一切的基石，So? 这常需要我沉浸于那些年代久远的经典著作——它们或许不总那么时髦，甚至有点“老派”，但其蕴含的智慧，往往出乎意料地深刻。科研的探索之旅，不正是对知识理论最纯粹本质的追溯嘛~这意味着我们需要穿过层层迷雾，才能找到真正的洞见，而灵感，往往就不合时宜地藏在那里。
 
 I'm a Ph.D. student (since 2025) at the spAtial Sensing and Computing Lab (ASC) at Xiamen University, committing to exploring multi-agent intelligent decision-making, LLM & reinforcement learning integration, and embodied intelligence. My advisor is Associate Professor Siqi Shen. My work, encompassing publications in top-tier venues like AAMAS and IEEE T-ITS, patents, and software copyrights, also includes an intermediate software designer certificate.  
