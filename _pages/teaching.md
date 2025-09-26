@@ -19,4 +19,4 @@ author_profile: true
   - 2021年山东省优秀毕业生
   - 2022年校优秀研究生
 - **学术工作**：
-  - ICLR 2025 reviewer
+  - ICLR 2026 reviewer
