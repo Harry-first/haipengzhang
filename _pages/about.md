@@ -29,7 +29,7 @@ Educations
 ------
 1. 2017.09~2021.06: **Qilu University of Technology(Shandong Academy of Sciences)**, Computer Science and Technology, **Bachelor**; _Mentor: Associate Professor Wei Wang_
 2. 2021.09~2024.06: **Guangxi University of Science and Technology**, Computer Science and Technology, **Master**; _Mentor: Professor Zhiwen Wang_
-3. 2025.09~Now: **Xiamen University**, Computer Science and Technology, **PhD**; _Mentor: Associate Professor Siqi Shen_
+3. 2025.09~Now: **Xiamen University**, Computer Science and Technology, **Ph.D.**; _Mentor: Associate Professor Siqi Shen_
 
 Work Experiences
 ------
