@@ -20,3 +20,4 @@ author_profile: true
   - 2022年校优秀研究生
 - **学术工作**：
   - ICLR 2026 reviewer
+  - CVPR 2026 reviewer
