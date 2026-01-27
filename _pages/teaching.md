@@ -21,3 +21,4 @@ author_profile: true
 - **学术工作**：
   - ICLR 2026 reviewer
   - CVPR 2026 reviewer
+  - ECCV 2026 reviewer
