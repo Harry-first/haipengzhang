@@ -23,3 +23,4 @@ author_profile: true
   - CVPR 2026 reviewer
   - ECCV 2026 reviewer
   - ICML 2026 reviewer (Gold Reviewer)
+  - AAAI 2027 PC
